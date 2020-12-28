@@ -1,6 +1,7 @@
 {
 	"name": "Mayukai Sunset (custom)",
 	"type": "dark",
+	// comment here
 	"colors": {
 		"focusBorder": "#505867",
 		"foreground": "#707a8c",
